@@ -1,6 +1,3 @@
-# X_O-Game
-A simple console-based Tic-Tac-Toe (X-O) game built using Python. The game allows two players to play alternately, displays the board after each move, and checks for win or draw conditions.
-
 # ❌⭕ X-O Game (Tic-Tac-Toe) in Python
 
 A simple **console-based Tic-Tac-Toe (X-O) game** built using Python. This project is beginner-friendly and demonstrates basic programming concepts such as loops, conditionals, lists, and user input handling.
