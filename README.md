@@ -73,6 +73,3 @@ This project is created for:
 * Practicing conditionals and loops
 
 
----
-
-⭐ If you like this project, don’t forget to give it a star!
