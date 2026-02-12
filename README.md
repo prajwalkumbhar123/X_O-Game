@@ -71,5 +71,3 @@ This project is created for:
 * Python beginners
 * Learning basic game logic
 * Practicing conditionals and loops
-
-
